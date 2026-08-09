@@ -1,4 +1,4 @@
-name: Build mhtest
+name: Build mhacker
 
 on:
   workflow_call:
